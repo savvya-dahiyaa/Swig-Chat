@@ -5,6 +5,7 @@ Swig-Chat aims to replicate a real-world food delivery support system by combini
 It intelligently understands user queries, identifies the order context, and responds using tone-based messages, whether helpful, apologetic, or delightful depending on the situation. 
 It uses a detailed order dataset with real-life fields (order ID, status, ETA, payment method, delay reasons, complaints, Instamart items, etc.) and a scenario dataset with 70+ situations (angry user, missing item, delays, refunds, cancellations, Instamart issues, etc.)
 Based on the user’s message and emotion, the chatbot picks the correct scenario and generates empathetic, contextual, and brand-aligned responses.
+
 <img width="1389" height="613" alt="image" src="https://github.com/user-attachments/assets/1ba76203-29ed-4f71-8cc5-fbe248a351b5" />
 
 How the Bot Works:
